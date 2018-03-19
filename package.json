@@ -1,6 +1,6 @@
 {
 	"name": "@bradmax/player",
-	"version": "0.0.1",
+	"version": "0.0.0",
 	"description": "Repository contains minimized javascript sources of Bradmax Player (@bradmax/player/[name]), Bradmax Player version data (@bradmax/player/version) and Bradmax Player Typescript definition (@bradmax/player/ns) .",
 	"author": "Piotr Długołęcki <piotr.dlugolecki@bradmax.com>",
 	"license": "MIT",
