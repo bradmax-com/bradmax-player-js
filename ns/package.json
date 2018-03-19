@@ -1,0 +1,7 @@
+{
+	"name": "@bradmax/player/ns",
+	"main": ".",
+	"module": "",
+	"es2015": "",
+	"typings": "./index.d.ts"
+}

@@ -1,0 +1,7 @@
+{
+	"name": "@bradmax/player/version",
+	"main": "./../bundles/version/index.umd.js",
+	"module": "./../esm5/version/index.js",
+	"es2015": "./../esm2015/version/index.js",
+	"typings": "./version/index.d.ts"
+}
