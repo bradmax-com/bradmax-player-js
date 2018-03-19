@@ -38,7 +38,7 @@ More info @ [bradmax.com][bradmax]
 [git-player-ng]: https://github.com/bradmax-com/bradmax-player-ng
 [git-player-ng-example]: https://github.com/bradmax-com/bradmax-player-ng-example
 [git-player-rxjs]: https://github.com/bradmax-com/bradmax-player-rxjs
-[git-player-rx-example]: https://github.com/bradmax-com/bradmax-player-rx-example
+[git-player-rxjs-example]: https://github.com/bradmax-com/bradmax-player-rxjs-example
 [git-player-js]: https://github.com/bradmax-com/bradmax-player-ag
 
 [bradmaxLogo]: ./assets/md/bradmax.svg
