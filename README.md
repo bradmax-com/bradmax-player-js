@@ -41,5 +41,5 @@ More info @ [bradmax.com][bradmax]
 [git-player-rxjs-example]: https://github.com/bradmax-com/bradmax-player-rxjs-example
 [git-player-js]: https://github.com/bradmax-com/bradmax-player-js
 
-[bradmaxLogo]: ./assets/md/bradmax.svg
-[javascriptLogo]: ./assets/md/js.svg
+[bradmaxLogo]: https://raw.githubusercontent.com/bradmax-com/bradmax-player-js/master/assets/md/bradmax.svg
+[javascriptLogo]: https://raw.githubusercontent.com/bradmax-com/bradmax-player-js/master/assets/md/js.svg
