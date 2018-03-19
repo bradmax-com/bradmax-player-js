@@ -1,6 +1,5 @@
 ___
-![Bradmax][bradmaxLogo]
-![Javascript][javascriptLogo]
+![Bradmax][bradmaxLogo]![Javascript][javascriptLogo]
 ___
 This contains minimized javascript sources of [bradmax player][bradmax] as npm submodules, plus additional submodules containing typescript typings and info about actual player version.
 ___
