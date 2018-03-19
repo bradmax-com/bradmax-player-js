@@ -1,9 +1,7 @@
-___
 >___
 >![Javascript][javascriptLogo]
 >![Bradmax][bradmaxLogo]
 >___
-___
 Repository contains minimized javascript sources of [bradmax player][bradmax] as npm submodules, plus additional submodules containing typescript typings and info about actual player version.
 ___
 ## Npm submodules:
