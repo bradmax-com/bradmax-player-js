@@ -14,7 +14,7 @@ ___
 | `version` | [@bradmax/player/version][npm-player] | *ts/js* | *es5/es2015/umd* | [bradmax player][bradmax] version data.                    |
 ___
 ## Usage:
-## This should be use as a standalone dependency in your project.
+## This should be used as a standalone dependency in your project.
 ### Instead please consider using module listed below:
 | npm | github |
 |---|---|
