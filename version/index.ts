@@ -1,1 +1,1 @@
-export const BRADMAX_PLAYER_VERSION = 'v2.4.7';
+export const BRADMAX_PLAYER_VERSION = 'v2.5.0';
